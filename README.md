@@ -1,2 +1,4 @@
 # hello-world
-just study
+Hello team,
+
+Alvin here, I like node.
